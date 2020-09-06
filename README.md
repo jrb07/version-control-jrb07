@@ -1,8 +1,8 @@
 # version-control
 Get familiar with version control basics.
 
-Created an "add" function in "math_lib.py"
+This project will have both addition and division functions located in "math_lib.py"
 
-Tested the "add" and "div" function in "calculate.py"
+The "add" and "div" function is used in "calculate.py"
 
-Created a shell executable fille titled "run.sh" that executes "calculate.py"
+A shell executable fille titled "run.sh" executes "calculate.py" to demonstrate usage of the "math_lib.py" functions
